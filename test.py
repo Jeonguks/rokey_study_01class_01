@@ -1,2 +1,2 @@
 # this is  new test
-print("hello")
+print("안녕하세요")
